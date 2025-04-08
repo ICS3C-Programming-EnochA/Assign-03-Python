@@ -5,6 +5,7 @@
 
 
 def main():
+    print("Hello and welcome to Enoch's math program")
     # Enter any number
     user_number = input("Enter any number: ")
     try:
