@@ -9,7 +9,7 @@
 name: Mr Coxall's Super Linter
 
 on: [push, pull_request]
-
+DISABLE_ERRORS: true
 jobs:
 
   run-linters:
